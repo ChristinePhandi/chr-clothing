@@ -3,13 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyC9UGsaBzWppvT5ulbD1ebObqDknpeMhro",
-  authDomain: "chr-db-b1b85.firebaseapp.com",
-  databaseURL: "https://chr-db-b1b85.firebaseio.com",
-  projectId: "chr-db-b1b85",
-  storageBucket: "chr-db-b1b85.appspot.com",
-  messagingSenderId: "542990001282",
-  appId: "1:542990001282:web:cd3e37498f1e679587409b"
+//firebase confing 
 };
 
 firebase.initializeApp(config);
